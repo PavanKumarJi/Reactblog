@@ -1,0 +1,82 @@
+.home {
+    display: inline;
+    position: relative;
+    right: -60px;
+    border-radius: 10px;
+  }
+  .card-11 {
+    width: 65vw;
+    height: 70vh;
+    border-radius: 20px;
+  }
+  .card-12 {
+    width: 25vw;
+    height: 35vh;
+    border-radius: 20px;
+  }
+  
+  .home-1 {
+    display: flex;
+    justify-content: space-evenly;
+  }
+  .h2 {
+    color: rgb(225, 225, 196);
+    position: absolute;
+    font-size: 50px;
+    bottom: 40px;
+    left: 100px;
+  }
+  .h3 {
+    color: beige;
+    position: absolute;
+    font-size: 20px;
+    bottom: 40px;
+    left: 100px;
+  }
+  .home-card2 {
+    margin-right: 50%;
+    display: flex;
+  }
+  .card-9 {
+    display: flex;
+    width: 100px;
+  }
+  .card-31 {
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 30px;
+    width: 90rem;
+    height: 40rem;
+  }
+  .card-16 {
+    width: 25rem;
+    height: 15rem;
+  }
+  .top-post {
+    margin-top: -900px;
+    margin-left: 1020px;
+    width: 29rem;
+    height: 48rem;
+  }
+  .cards10 {
+    width: 14rem;
+    height: 10rem;
+  }
+  .top12 {
+    position: relative;
+    font-size: 30px;
+    left: 1020px;
+    top: -900px;
+  }
+  .card-32 {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    height: 50rem;
+    width: 60rem;
+    margin-left: 30px;
+  }
+  .cards11 {
+    width: 14rem;
+    height: 11rem;
+  }
