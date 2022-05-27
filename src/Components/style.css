@@ -1,0 +1,107 @@
+.container {
+    display: flex;
+    flex-direction: column;
+  }
+  .the {
+    display: flex;
+    justify-content: center;
+    color: rgb(56, 53, 53);
+    position: relative;
+    font-size: 30px;
+    top: 25px;
+    left: -50px;
+    margin: 50px;
+    transform: rotate(-90deg);
+  }
+  .Navbar {
+    display: flex;
+    font-size: 25px;
+    text-decoration: none;
+    background-color: rgb(34, 29, 29);
+    margin: 30px;
+    justify-content: space-evenly;
+  }
+  .siren {
+    color: rgb(59, 53, 53);
+    display: flex;
+  
+    position: absolute;
+    font-size: 60px;
+    top: 0px;
+    left: 723px;
+  }
+  .nav {
+    text-decoration: none;
+    color: aliceblue;
+  }
+  
+  .main-card {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .cards {
+    width: 50%;
+    height: 40vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-bottom: 1px solid black;
+  }
+  .top-most {
+    width: 35%;
+    height: 30vh;
+  }
+  
+  .card-1 {
+    width: 20rem;
+    height: 16rem;
+    border: solid 1px #fff;
+  }
+  
+  .card-2 {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .home-card {
+    text-align: center;
+  }
+  .bolly,
+  .foo,
+  .tori,
+  .fit {
+    position: absolute;
+    top: 200px;
+    left: 90px;
+  }
+  .right-title {
+    position: relative;
+    left: 1000px;
+  }
+  .right-card {
+    display: flex;
+    flex-direction: column;
+    width: 16rem;
+  }
+  
+  .add {
+    position: absolute;
+    right: 100px;
+  }
+  .title2 {
+    position: relative;
+    font-size: 20px;
+    left: 280px;
+    top: -150px;
+  }
+  .title3 {
+    position: relative;
+    font-size: 15px;
+    left: 280px;
+    top: -150px;
+  }
+  .hr {
+    position: relative;
+    top: -100px;
+  }
